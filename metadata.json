@@ -1,0 +1,8 @@
+{
+  "name": "Chartxo AI",
+  "description": "Instant financial chart analysis powered by Gemini. Snap a photo of any chart to get immediate insights",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
